@@ -1,3 +1,7 @@
+Projeto Simples em Java com Servlets
+
+CRUD para gerenciamento de usuários. 
+
 Observações:
 
 1. Se ocorrer erro ao encontrar a biblioteca do mysql, seguir os passos abaixo:
